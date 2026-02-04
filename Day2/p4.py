@@ -1,3 +1,3 @@
 string = "Amit is Good Boy"
 
-print(len(string))
+print(len(string)) #length call
