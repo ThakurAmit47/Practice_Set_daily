@@ -1,6 +1,6 @@
-a = int(input("Enter the Number: "))
+a = input("Enter the Number: ")
 if a == a[::-1]:
-    print("palimdrone")
+    print("Palidrome hai")
 
 else:
     print("None palidrome")
