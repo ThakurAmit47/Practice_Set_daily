@@ -7,3 +7,5 @@ elif(n==0):
 
 else:
     print("Number is negative")
+
+#p3 completed
