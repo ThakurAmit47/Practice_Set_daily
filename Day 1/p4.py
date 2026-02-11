@@ -4,3 +4,5 @@ if(age >= 18):
 
 else:
     print("Not eligible")
+
+#Age Discrimination

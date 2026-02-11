@@ -5,3 +5,4 @@ if(a % 2):
 
 else:
     print("Number is even")
+#Clerify Even and Odd
