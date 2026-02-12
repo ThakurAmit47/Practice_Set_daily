@@ -4,4 +4,4 @@ if a == a[::-1]:
 
 else:
     print("None palidrome")
-    #repated problem
+    #repeated problem

@@ -4,3 +4,4 @@ c = int(input("Enter the number: "))
 
 f = (a + b + c)/ 3
 print(f)
+#average
