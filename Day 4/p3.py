@@ -13,3 +13,4 @@ elif(str.startswith("u")):
 else:
     print("string not start with vowels")
     #Add commit
+    #p3 commpleted
