@@ -3,3 +3,4 @@ b = int(input("Enter the first number: "))
 c = a + b
 print(c)
 #sum of the questions
+#p2 completed
